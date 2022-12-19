@@ -1,8 +1,13 @@
 {
   "name": "hufflepuff-theme",
   "displayName": "Hufflepuff",
-  "description": "Hufflepuff VS code color theme",
-  "version": "0.0.1",
+  "description": "A VS Code theme with the Hufflepuff colours",
+	"version": "0.0.1",
+	"publisher": "JulieB",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/bronnimannj/hufflepuff-theme"
+	},
   "engines": {
     "vscode": "^1.74.0"
   },
