@@ -24,6 +24,7 @@ This project contains the necessary files to create a VSCode Extension called "H
 
 ## Visuals <a name="visuals"></a>
 
+![image](https://user-images.githubusercontent.com/29840762/210396737-46310651-c180-4664-a65f-c5f5ac43b244.png)
 
 
 ## Instructions <a name="instructions"></a>
